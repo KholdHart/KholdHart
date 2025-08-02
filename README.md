@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size:3em;">🚀 Hi there, I'm KholdHart 👋</h1>
-<h3 align="center">A passionate full-stack developer diving deep into Web3, smart contracts, and modern web tech.</h3>
+<h1 align="center" style="font-size:3em;">🚀 Hi there👋</h1>
+<h3 align="center">A passionate full-stack developer currently diving deep into Web3, smart contracts, and modern web tech.</h3>
 
 ---
 
