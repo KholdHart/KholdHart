@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:3em;">🚀 Hi there👋</h1>
-<h3 align="center">A passionate full-stack developer currently diving deep into Web3, smart contracts, and modern web tech.</h3>
+<h3 align="center">A full-stack developer, I love web3 btw.</h3>
 
 ---
 
