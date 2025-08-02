@@ -31,6 +31,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KholdHart&show_icons=true&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=KholdHart&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KholdHart&layout=compact&theme=tokyonight)
 
 ---
