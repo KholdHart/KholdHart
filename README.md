@@ -1,7 +1,22 @@
-🌿 KholdHart
-Digital Craftsman (Developer/Filmmaker/Creator)
+# 🌿 KholdHart  
+**Digital Craftsman | Software Engineer | Systems Thinker**
 
-I'm a creative problem-solver and tech enthusiast building innovative projects that bring people together. With a passion for coding, filmmaking, and storytelling, I'm always looking for ways to push the boundaries of what's possible.
+```ts
+type Developer = {
+  name: "Magane Letsoalo";
+  title: "Full-Stack Software Engineer";
+  focus: "Computer Science meets Craft";
+  specialties: [
+    "Object-Oriented Design",
+    "Systems Architecture",
+    "Concurrency & Multithreading",
+    "Data Structures & Algorithms"
+  ];
+  languages: ["TypeScript", "C#", "Java"];
+  softSkills: ["Agile Collaboration", "Cross-Team Communication", "Clean Code"];
+  exploring: ["Compiler Design", "Distributed Systems", "Rust"];
+  bonusSkills: ["Solidity", "Smart Contract Security", "Hardhat", "Foundry"];
+};
 
 ## 🔗 Socials
 
