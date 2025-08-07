@@ -15,23 +15,19 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
 
 ## 🧰 Tech Stack
 
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-</head>
-
 <p align="center">
-  <i class="devicon-javascript-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-solidity-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-nodejs-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-express-original colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-csharp-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-java-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-html5-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-css3-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-postgresql-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-git-plain colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-github-original colored" style="font-size: 40px; margin: 10px;"></i>
-  <i class="devicon-docker-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
 ---
