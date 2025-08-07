@@ -5,7 +5,7 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
 
 ## 🔗 Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/magane-letsoalo-452444327/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
@@ -35,7 +35,7 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KholdHart&theme=dark&hide_border=false" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=KholdHart&theme=dark&hide_border=false" />
