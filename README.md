@@ -3,9 +3,7 @@ Digital Craftsman (Developer/Filmmaker/Creator)
 
 I'm a creative problem-solver and tech enthusiast building innovative projects that bring people together. With a passion for coding, filmmaking, and storytelling, I'm always looking for ways to push the boundaries of what's possible.
 
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/25/0A66C2/link.png"/> Socials
-</h3>
+## 🔗 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/magane-letsoalo-452444327/">
@@ -13,9 +11,9 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
   </a>
 </p>
 
-<h3 align="center">
-  <img src="https://img.icons8.com/ios-filled/25/000000/code.png"/> Tech Stack
-</h3>
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,6 +31,8 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
