@@ -1,7 +1,7 @@
 # 🌿 KholdHart  
 **Digital Craftsman | Software Engineer | Systems Thinker**
 
-Hi, I love me some Java(Script) and making Websites. My creative spirit thrives in code🌌.
+Hi, I love me some **Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
 
 Currently working on:
 - Jetspot AI🤖
