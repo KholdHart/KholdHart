@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size:3em;">🚀 Hi there👋</h1>
-<h3 align="center">A full-stack developer, I love web3 btw.</h3>
+<h1 align="center" style="font-size:3em;">🚀 Magane aka KholdHart</h1>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 ---
 
