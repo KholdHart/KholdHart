@@ -1,38 +1,24 @@
 <h1 align="center">🌿 KholdHart</h1>
-<h3 align="center">Digital Craftsman · Software Engineer · Systems Thinker</h3>
+<h3 align="center">Digital Craftsman · Software Engineer · Creative</h3>
 
-<p align="center">
-  <i>Turning ideas into digital experiences — one keystroke at a time.</i><br/>
-  <b>⚡ Passionate about Web3 · Full-stack Dev · Creator of Code 🌌</b>
-</p>
+Hi, I love me some **Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
 
----
+Currently working on:
+- Jetspot AI🤖
+- Weather Website ☀️
 
-## 🚀 Current Projects
-
-- 🧠 <strong>Jetspot AI</strong>: Intelligent context-aware assistants.
-- ⛅ <strong>Weather Website</strong>: Real-time weather, sleek UI.
+I'm also experienced in **Web3 development**, with a strong understanding of Ethereum smart contracts, security principles, and tools like **Hardhat** and **Foundry**.
 
 ---
 
-## 🛠️ Web3 Experience
-
-Experienced in:
-- 🧾 Ethereum Smart Contracts (ERC-20, ERC-721)
-- 🔐 Security-first development practices
-- 🧪 Tools:  
-  <img src="https://img.shields.io/badge/Hardhat-2C2E3B?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=forge&logoColor=white" />
-
----
-
-## 🔗 Connect with Me
+## 🔗 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/magane-letsoalo-452444327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/magane-letsoalo-452444327/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
@@ -69,23 +55,9 @@ Experienced in:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KholdHart&theme=radical&hide_border=false&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KholdHart&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=KholdHart&theme=radical&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=KholdHart&theme=dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KholdHart&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KholdHart&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
-
-## ⚡ Fun Facts
-
-- 🐉 I draw inspiration from fantasy and games.
-- 🧱 I see software as a form of architecture.
-- 🌀 I believe great code is poetic.
-
----
-
-<p align="center">🔹🔸🔹🔸🔹</p>
-
-
