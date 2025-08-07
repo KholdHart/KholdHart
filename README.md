@@ -1,17 +1,13 @@
 # 🌿 KholdHart  
 **Digital Craftsman | Software Engineer | Systems Thinker**
 
-Hi, I’m **Magane Letsoalo** — a full-stack developer with a passion for building clean, efficient, and scalable software grounded in solid computer science fundamentals. My work is deeply influenced by algorithms, systems architecture, and design patterns — not just the latest frameworks.
+Hi, I’m **Magane Letsoalo** I love me some Java(Script) and making Websites. My creative spirit thrives in code🌌.
 
-I’m fluent in **JavaScript**, **C#**, and **Java**, and I design robust systems with a focus on clarity, performance, and maintainability. I enjoy working across the stack, especially on the backend, and I thrive in environments that value thoughtful engineering over hype.
+Currently working on:
+- Jetspot AI🤖
+- Weather Website ☀️
 
-Currently exploring:
-- 🧠 Compiler Design & Programming Languages
-- ☁️ Distributed Systems & Scalability
-- 🧵 Concurrency & Parallelism
-- 🦀 Rust (because safety is elegant)
-
-I also have hands-on experience in **Web3 development**, with a strong understanding of Ethereum smart contracts, security principles, and tools like **Hardhat** and **Foundry**.
+I'm also experienced in **Web3 development**, with a strong understanding of Ethereum smart contracts, security principles, and tools like **Hardhat** and **Foundry**.
 
 ---
 
