@@ -15,19 +15,23 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
 
 ## 🧰 Tech Stack
 
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</head>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/solidity.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" alt="Docker" width="40" height="40"/>
+  <i class="devicon-javascript-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-solidity-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-nodejs-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-express-original colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-csharp-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-java-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-html5-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-css3-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-postgresql-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-git-plain colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-github-original colored" style="font-size: 40px; margin: 10px;"></i>
+  <i class="devicon-docker-plain colored" style="font-size: 40px; margin: 10px;"></i>
 </p>
 
 ---
