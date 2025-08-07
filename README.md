@@ -7,9 +7,10 @@ I'm a creative problem-solver and tech enthusiast building innovative projects t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/magane-letsoalo-452444327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
