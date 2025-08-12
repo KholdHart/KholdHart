@@ -4,8 +4,8 @@
 Hi, I love me some **Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
 
 Currently working on:
-- Jetspot AI🤖
-- Weather Website ☀️
+- Jetspot AI 🤖
+- Linear Programming 🫩
 
 I'm also experienced in **Web3 development**, with a strong understanding of Ethereum smart contracts, security principles, and tools like **Hardhat** and **Foundry**.
 
