@@ -1,5 +1,5 @@
 <h1 align="center">🌿 KholdHart </h1>
-<h3 align="center">Digital Craftsman · Software Engineer · Creative</h3>
+<h3 align="center">Digital Craftsman · Full-Stack Dev · Creative</h3>
 
 Hi, I love me some **Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
 
