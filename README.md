@@ -1,7 +1,7 @@
 <h1 align="center">🌿 KholdHart </h1>
 <h3 align="center">Digital Craftsman · Full-Stack Dev · Creative</h3>
 
-Hi, I love me some **Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
+Hi, I love me some **C#, Java/Script** and making **Websites**. My creative spirit thrives in code🌌.
 
 Currently working on:
 - Jetspot AI 🤖
