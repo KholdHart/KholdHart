@@ -6,6 +6,7 @@ Hi, I love me some **C#, Java/Script** and making **Websites**. My creative spir
 Currently working on:
 - Jetspot AI 🤖
 - Expense Tracker 💸
+- Linear Programming (agent of satan)
 
 I'm also experienced in **Web3 development**, with a strong understanding of Ethereum smart contracts, security principles, and tools like **Hardhat** and **Foundry**.
 
