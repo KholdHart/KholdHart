@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="APPLYMAXX">
+<defs>
+  <linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="590" y2="300">
+    <stop offset="0" stop-color="#FF3D6E"/><stop offset="0.5" stop-color="#FF3D6E" stop-opacity="0.05"/><stop offset="1" stop-color="#FF3D6E"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 295.0 150.0;360 295.0 150.0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="gl" cx="1" cy="0" r="1">
+    <stop offset="0" stop-color="#FF3D6E" stop-opacity="0.35"/><stop offset="0.6" stop-color="#FF3D6E" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="c"><rect width="590" height="300" rx="22"/></clipPath>
+  <style>
+    .g { animation: br 4s ease-in-out infinite alternate }
+    @keyframes br { from { opacity:.55 } to { opacity:1 } }
+    .st { animation: bl 1.4s ease-in-out infinite }
+    @keyframes bl { 50% { opacity:.25 } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="590" height="300" fill="#0A0F1F"/>
+  <rect class="g" width="590" height="300" fill="url(#gl)"/>
+  <text x="562" y="118" text-anchor="end" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="110" font-weight="900" fill="#FF3D6E" fill-opacity="0.07">MAX</text>
+</g>
+<rect x="1" y="1" width="588" height="298" rx="21" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<text x="32" y="50" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#7C8AA8" letter-spacing="2">02 / FOUNDER</text>
+<rect x="437" y="30" width="121" height="28" rx="14" fill="#FFC83D" fill-opacity="0.12" stroke="#FFC83D" stroke-opacity="0.55"/>
+<circle class="st" cx="451" cy="44" r="4" fill="#FFC83D"/>
+<text x="463" y="49" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="700" fill="#FFC83D" letter-spacing="1">PRE-LAUNCH</text>
+<text x="32" y="106" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="900" fill="#E8F1FF" letter-spacing="0.5">APPLYMAXX</text>
+<text x="32" y="150" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">The South African job hunt, rebuilt. A daily job feed</text><text x="32" y="175" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">that hides what you already applied to, tracks every</text><text x="32" y="200" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">application, and scores your CV before a recruiter</text><text x="32" y="225" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">ever sees it.</text>
+<rect x="32" y="246" width="73" height="28" rx="14" fill="#FF3D6E" fill-opacity="0.12" stroke="#FF3D6E" stroke-opacity="0.45"/><text x="69" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">Product</text><rect x="113" y="246" width="65" height="28" rx="14" fill="#FF3D6E" fill-opacity="0.12" stroke="#FF3D6E" stroke-opacity="0.45"/><text x="146" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">Vercel</text><rect x="187" y="246" width="106" height="28" rx="14" fill="#FF3D6E" fill-opacity="0.12" stroke="#FF3D6E" stroke-opacity="0.45"/><text x="240" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">Apps Script</text><rect x="301" y="246" width="57" height="28" rx="14" fill="#FF3D6E" fill-opacity="0.12" stroke="#FF3D6E" stroke-opacity="0.45"/><text x="329" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">CV AI</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="THE ARSENAL">
+<defs>
+  <linearGradient id="ln" x1="0" x2="1">
+    <stop offset="0" stop-color="#7DF9FF"/><stop offset="0.6" stop-color="#FF3D6E"/><stop offset="1" stop-color="#FF3D6E" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .dot { animation: run 3.2s cubic-bezier(.6,0,.4,1) infinite }
+    @keyframes run { 0% { transform: translateX(0); opacity:0 } 10% {opacity:1} 90% {opacity:1} 100% { transform: translateX(1120px); opacity:0 } }
+  </style>
+</defs>
+<rect width="1200" height="84" rx="18" fill="#0A0F1F"/>
+<text x="40" y="38" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#7DF9FF" letter-spacing="3">// 04</text>
+<text x="104" y="40" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="#E8F1FF" letter-spacing="1">THE ARSENAL</text>
+<text x="1160" y="38" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#7C8AA8" letter-spacing="2">TOOLS THAT FEAR HIM</text>
+<rect x="40" y="60" width="1120" height="2" fill="url(#ln)" opacity="0.8"/>
+<circle class="dot" cx="40" cy="61" r="3.5" fill="#fff"/>
+</svg>

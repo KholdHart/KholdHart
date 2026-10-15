@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-label="ADAPTIVE TRAFFIC AI">
+<defs>
+  <linearGradient id="bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="590" y2="300">
+    <stop offset="0" stop-color="#9B5CFF"/><stop offset="0.5" stop-color="#9B5CFF" stop-opacity="0.05"/><stop offset="1" stop-color="#9B5CFF"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 295.0 150.0;360 295.0 150.0" dur="8s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="gl" cx="1" cy="0" r="1">
+    <stop offset="0" stop-color="#9B5CFF" stop-opacity="0.35"/><stop offset="0.6" stop-color="#9B5CFF" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="c"><rect width="590" height="300" rx="22"/></clipPath>
+  <style>
+    .g { animation: br 4s ease-in-out infinite alternate }
+    @keyframes br { from { opacity:.55 } to { opacity:1 } }
+    .st { animation: bl 1.4s ease-in-out infinite }
+    @keyframes bl { 50% { opacity:.25 } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="590" height="300" fill="#0A0F1F"/>
+  <rect class="g" width="590" height="300" fill="url(#gl)"/>
+  <text x="562" y="118" text-anchor="end" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="110" font-weight="900" fill="#9B5CFF" fill-opacity="0.07">IoT</text>
+</g>
+<rect x="1" y="1" width="588" height="298" rx="21" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<text x="32" y="50" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" fill="#7C8AA8" letter-spacing="2">05 / RESEARCH</text>
+<rect x="420" y="30" width="138" height="28" rx="14" fill="#9B5CFF" fill-opacity="0.12" stroke="#9B5CFF" stroke-opacity="0.55"/>
+<circle class="st" cx="434" cy="44" r="4" fill="#9B5CFF"/>
+<text x="446" y="49" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="700" fill="#9B5CFF" letter-spacing="1">DISSERTATION</text>
+<text x="32" y="106" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="900" fill="#E8F1FF" letter-spacing="0.5">ADAPTIVE TRAFFIC AI</text>
+<text x="32" y="150" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">IoT + predictive analytics for adaptive traffic</text><text x="32" y="175" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">signals at congested South African intersections.</text><text x="32" y="200" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">Design Science Research, simulated in SUMO. Joburg</text><text x="32" y="225" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B9C6DD">traffic has been warned.</text>
+<rect x="32" y="246" width="41" height="28" rx="14" fill="#9B5CFF" fill-opacity="0.12" stroke="#9B5CFF" stroke-opacity="0.45"/><text x="52" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">IoT</text><rect x="81" y="246" width="49" height="28" rx="14" fill="#9B5CFF" fill-opacity="0.12" stroke="#9B5CFF" stroke-opacity="0.45"/><text x="105" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">SUMO</text><rect x="137" y="246" width="98" height="28" rx="14" fill="#9B5CFF" fill-opacity="0.12" stroke="#9B5CFF" stroke-opacity="0.45"/><text x="186" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">Prediction</text><rect x="243" y="246" width="41" height="28" rx="14" fill="#9B5CFF" fill-opacity="0.12" stroke="#9B5CFF" stroke-opacity="0.45"/><text x="264" y="265" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12.5" fill="#E8F1FF">DSR</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-label="News ticker">
+<defs>
+  <linearGradient id="fade" x1="0" x2="1">
+    <stop offset="0" stop-color="#0A0F1F"/><stop offset="0.06" stop-color="#0A0F1F" stop-opacity="0"/>
+    <stop offset="0.94" stop-color="#0A0F1F" stop-opacity="0"/><stop offset="1" stop-color="#0A0F1F"/>
+  </linearGradient>
+  <clipPath id="c"><rect width="1200" height="58" rx="14"/></clipPath>
+  <style>
+    .m { animation: run 38s linear infinite }
+    @keyframes run { from { transform: translateX(0) } to { transform: translateX(-3400px) } }
+  </style>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="58" fill="#0A0F1F"/>
+  <g class="m" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="17" font-weight="700" fill="#E8F1FF" letter-spacing="1">
+    <text x="150" y="35" textLength="3360" lengthAdjust="spacing">BREAKING: 21-YEAR-OLD BUILDS AGENTS THAT CLEAR SERVICE DESKS   ★   UIPATH CERTIFIED   ★   JIRA TICKETS NOW TRIAGE THEMSELVES OUT OF RESPECT   ★   SCIENTISTS BAFFLED   ★   BUGS FILE THEIR OWN RESIGNATION   ★   RECRUITERS IN SHAMBLES   ★   MIDRAND’S MOST DANGEROUS KEYBOARD   ★   THE FRONTIER CALLED — HE WAS ALREADY THERE   ★   </text>
+    <text x="3550" y="35" textLength="3360" lengthAdjust="spacing">BREAKING: 21-YEAR-OLD BUILDS AGENTS THAT CLEAR SERVICE DESKS   ★   UIPATH CERTIFIED   ★   JIRA TICKETS NOW TRIAGE THEMSELVES OUT OF RESPECT   ★   SCIENTISTS BAFFLED   ★   BUGS FILE THEIR OWN RESIGNATION   ★   RECRUITERS IN SHAMBLES   ★   MIDRAND’S MOST DANGEROUS KEYBOARD   ★   THE FRONTIER CALLED — HE WAS ALREADY THERE   ★   </text>
+  </g>
+  <rect width="1200" height="58" fill="url(#fade)"/>
+  <rect x="0" y="0" width="132" height="58" fill="#FF3D6E"/>
+  <text x="66" y="35" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="16" font-weight="800" fill="#fff" letter-spacing="3">LIVE ●</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="57" rx="14" fill="none" stroke="#FF3D6E" stroke-opacity="0.5"/>
+</svg>
