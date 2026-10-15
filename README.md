@@ -106,16 +106,16 @@ He's 21. Most people at 21 are figuring out what an API is. Jeff is wiring LLMs 
 
 <img src="./assets/h-reviews.svg" width="100%" alt="06 What They're Saying"/>
 
-> *"I used to sit in the backlog for weeks. Now I'm triaged before I finish loading."*
+> *"I used to sit in the backlog for weeks. Now I'm triaged before I finish loading."*<br/>
 > — **A Jira ticket**
 
-> *"He wrote me, then made me do his job. I respect it."*
+> *"He wrote me, then made me do his job. I respect it."*<br/>
 > — **Stuart Bot**
 
-> *"We heard he's simulating us in SUMO. We're scared."*
+> *"We heard he's simulating us in SUMO. We're scared."*<br/>
 > — **Every traffic light in Johannesburg**
 
-> *"Ran clean on the first try. Suspicious, honestly."*
+> *"Ran clean on the first try. Suspicious, honestly."*<br/>
 > — **His terminal, 2 a.m.**
 
 <br/>
